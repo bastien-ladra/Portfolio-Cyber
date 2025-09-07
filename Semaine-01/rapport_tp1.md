@@ -50,5 +50,7 @@ Comprendre la configuration de réseau local entre VM.
 Tester l'impact d’un firewall simple sur la connectivité.
 Appliquer une première mesure de sécurité réseau (filtrage ICMP).
 
-✍️ Auteur : Bastien Ladra
-📅 Date : Septembre 2025
+---
+
+✍️ **Auteur :** Bastien Ladra  
+📅 **Date :** Septembre 2025
